@@ -101,13 +101,13 @@
 		8228727D1D3BDB5F00A17F48 /* GITtest */ = {
 			isa = PBXGroup;
 			children = (
-				822872811D3BDB5F00A17F48 /* AppDelegate.h */,
 				822872821D3BDB5F00A17F48 /* AppDelegate.m */,
 				822872841D3BDB5F00A17F48 /* ViewController.h */,
 				822872851D3BDB5F00A17F48 /* ViewController.m */,
 				822872871D3BDB5F00A17F48 /* Main.storyboard */,
 				8228728A1D3BDB5F00A17F48 /* Assets.xcassets */,
 				8228728C1D3BDB5F00A17F48 /* LaunchScreen.storyboard */,
+				822872811D3BDB5F00A17F48 /* AppDelegate.h */,
 				8228728F1D3BDB5F00A17F48 /* Info.plist */,
 				8228727E1D3BDB5F00A17F48 /* Supporting Files */,
 			);
@@ -496,6 +496,7 @@
 				822872AA1D3BDB5F00A17F48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		822872AB1D3BDB5F00A17F48 /* Build configuration list for PBXNativeTarget "GITtestTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				822872AD1D3BDB5F00A17F48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		822872AE1D3BDB5F00A17F48 /* Build configuration list for PBXNativeTarget "GITtestUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				822872B01D3BDB5F00A17F48 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
